@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blanket and Pillows - Low Poly
+* source:	https://sketchfab.com/3d-models/blanket-and-pillows-low-poly-65d0993e7b1741e9ab061d5f97504c31
+* author:	Antipov Alexsander (https://sketchfab.com/antipovsoft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blanket and Pillows - Low Poly" (https://sketchfab.com/3d-models/blanket-and-pillows-low-poly-65d0993e7b1741e9ab061d5f97504c31) by Antipov Alexsander (https://sketchfab.com/antipovsoft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
